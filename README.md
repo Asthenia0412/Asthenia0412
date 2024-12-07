@@ -1,7 +1,3 @@
-Here’s a refined and enhanced version of your GitHub README that includes more details on your technical skills, what you're working on, and how others can collaborate with you:
-
----
-
 # 👋 Hi, I’m @Asthenia0412
 
 Welcome to my GitHub profile! I'm a passionate developer focused on both backend and frontend technologies. Currently diving deep into Java and JavaScript, and exploring various technologies and tools to improve my development workflow.
