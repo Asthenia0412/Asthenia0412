@@ -33,28 +33,4 @@ You can call me **Xiao**!
 ### ⚡ Fun Fact
 I haven't figured out what my fun fact is yet, but I’ll update it soon! 😄
 
----
-
-### 🛠 Technologies & Tools I Use:
-- **Backend**:  
-  - Spring Boot, Spring Cloud, Hibernate, JPA  
-  - RESTful APIs, Microservices  
-  - Redis, Kafka, RabbitMQ  
-
-- **Frontend**:  
-  - Vue.js, HTML, CSS, JavaScript  
-  - Node.js, Webpack, Babel  
-
-- **Database**:  
-  - MySQL, PostgreSQL, MongoDB  
-
-- **Version Control**:  
-  - Git, GitHub, GitLab
-
----
-
 Love From **HNUST** (Hunan University of Science and Technology) ❤️
-
----
-
-Feel free to modify or add any details based on your preferences or the specific technologies you want to highlight!
