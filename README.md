@@ -1,36 +1,60 @@
-# 👋 Hi, I’m @Asthenia0412
+<table width="100%"  style="margin-left: auto; margin-right: auto;">
+    <tr>
+        <td width="55%">
+      Hello, I am a Java developer. I'd like to code for the web, using Redis, MongoDB, ElasticSearch, and more to build stable applications.<br>
+    	</td>
+        <td width="45%">
+            <table>
+                <tr>
+                    <td><strong>I often use:<br></strong>
+ <br>
 
-Welcome to my GitHub profile! I'm a passionate developer focused on both backend and frontend technologies. Currently diving deep into Java and JavaScript, and exploring various technologies and tools to improve my development workflow.
+[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows)<br>
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+</td>
+</tr>
+<tr>
+<td><strong>I also use:<br></strong>
 
-### 👀 Interests & Focus
-- **Languages**: Java, JavaScript  
-- **Frameworks & Tools**:  
-  - **Java**: Spring Boot, Spring Cloud, Hibernate, JPA  
-  - **Frontend**: Vue.js, HTML, CSS  
-  - **Middlewares**: Redis, Kafka, RabbitMQ  
-- **Learning**:  
-  - Preparing for coding interviews with a focus on algorithms.  
-  - Improving my skills in JavaWeb development and related frameworks.
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) <br>
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) <br>
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" border="0">
 
-### 🌱 Current Projects
-- Building and refining **web applications** using Spring Boot and Spring Cloud.
-- Developing modern web UIs with **Vue.js**.
-- Experimenting with various **cloud-native** tools and microservices patterns.
+![Profile Views](https://count.getloli.com/get/@Asthenia0412?theme=rule34)
+</td>
+    </tr>
+    <tr>
+    <td colspan="2" align="center" border="0">
 
-### 💞️ Collaboration
-I'm open to collaborating on **web development projects**, particularly those that involve Java, Spring, and Vue.js. Let me know if you need help with:
-- Backend development using **Spring Boot** and **Spring Cloud**.
-- Frontend development using **Vue.js** or integrating JavaScript with Java.
-- Implementing middlewares and microservices architectures.
+![Profile Views](https://komarev.com/ghpvc/?username=Asthenia0412)
 
-### 📫 Reach Me
-- **Tencent Number**: 2283216402  
-- Feel free to reach out to me if you have any questions or want to collaborate.
+</td>
+</tr>
 
-### 😄 Pronouns
-You can call me **Xiao**! 
+</table>
+<table>
+    <tr>
+        <td>
 
-### ⚡ Fun Fact
-I haven't figured out what my fun fact is yet, but I’ll update it soon! 😄
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=Asthenia0412&show_icons=true&title_color=blue&icon_color=ac4ef7f&text_color=blue&bg_color=0,fbefc4,fba9ae)](https://github.com/anuraghazra/github-readme-stats) 
+        </td>
+        <td>
 
-Love From **HNUST** (Hunan University of Science and Technology) ❤️
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyFive&layout=compact&exclude_repo=LyFive.github.io&title_color=blue&icon_color=bb2acf&text_color=blue&bg_color=0,fbefc4,fba9ae)](https://github.com/anuraghazra/github-readme-stats)
+        </td>
+    </tr>
+</table>
