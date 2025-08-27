@@ -1,7 +1,8 @@
 <table width="100%"  style="margin-left: auto; margin-right: auto;">
     <tr>
         <td width="55%">
-      Hello, I am a Java developer. I'd like to code for the web, using Redis, MongoDB, ElasticSearch, and more to build stable applications.<br>
+      你好！我是一名27届毕业的准后端工程师。我的博客是：(Asthenia的博客)[https://asthenia0412.github.io/]<br>
+      我对Java相关的技术栈比较感兴趣：对Netty、Spring、关系型与非关系型数据库也有一些自己的理解<br>
     	</td>
         <td width="45%">
             <table>
