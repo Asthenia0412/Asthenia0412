@@ -4,12 +4,6 @@
       你好！我是一名27届毕业的准后端工程师。我的博客是：<a href="https://asthenia0412.github.io/" target="_blank">Asthenia的博客</a><br>
       我目前有三段实习经历，第一段在某初创小厂参与了AI应用工具的落地，第二段在某B轮小厂参与了基础软件的开发工作，第三段在安克创新参与了广告投放平台的开发与For非技术部门的MCP应用开发。<br>
       我的技术兴趣主要围绕Java相关的技术栈，最近也有在进行LLM应用的学习与前端的精进。
-            
-        </td>
-        <td width="45%">
-            <table>
-                <tr>
-                    <td><strong>I often use:<br></strong>
  <br>
 
 [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows)<br>
