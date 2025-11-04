@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Asthenia</h1>
-<h3 align="center">A Passionate Backend & DevOps Developer from China</h3>
+<h3 align="center">A Passionate Backend Developer from China</h3>
 
 - 🏫 I'm currently studying at **Hunan University of Science and Technology (HNUST)**
 - 🎯 Expected to graduate in **2027**
@@ -39,6 +39,7 @@
 *Sep 2025 - Present*
 - Developing and maintaining features for a consolidated **advertising platform** that manages both on-site and off-site campaigns.
 - Participating in **AI-related DevOps** development tasks to enhance platform efficiency and automation.
+- Contributed to the development of AI Agents aimed at improving R&D and operational efficiency.
 
 ---
 
