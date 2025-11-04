@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Asthenia</h1>
 <h3 align="center">A Passionate Backend & DevOps Developer from China</h3>
 
 - 🏫 I’m currently studying at **Hunan University of Science and Technology (HNUST)**
@@ -30,27 +30,26 @@
 
 ### 💼 Professional Experience
 
-| Company | Role | Duration | Work Description |
-| :--- | :--- | :--- | :--- |
-| **Valiantsec** | Java Backend Development Intern | Jun 2025 - Aug 2025 | • Contributed to the **IUnit project** with a focus on Java backend development. |
-| **Anker Innovations** | Java Backend Development Intern | Sep 2025 - Present | • Developing features for a **one-stop advertising platform** handling both on-site and off-site ad campaigns.<br>• Participating in **AI-related DevOps** development tasks. |
+#### **Java Backend Development Intern** | [Valiantsec](https://www.valiantsec.com/)
+*Jun 2025 - Aug 2025*
+- Contributed to the **IUnit project**, focusing on core Java backend development tasks.
+
+#### **Java Backend Development Intern** | [Anker Innovations](https://www.anker.com/)
+*Sep 2025 - Present*
+- Developing and maintaining features for a consolidated **advertising platform** that manages both on-site and off-site campaigns.
+- Participating in **AI-related DevOps** development tasks to enhance platform efficiency and automation.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Your GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Asthenia0412&show_icons=true&theme=radical" alt="Your GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asthenia0412&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 How to Reach Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" /> 
+  <img src="https://komarev.com/ghpvc/?username=Asthenia0412&label=Profile%20views&color=0e75b6&style=flat" alt="Asthenia0412" /> 
 </p>
