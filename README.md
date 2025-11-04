@@ -42,14 +42,6 @@
 
 ---
 
-### 📝 Latest Blog Posts
-<!-- If you have a blog RSS feed, you can use tools like blogpost-workflow to auto-update this section -->
-- [Post Title 1](https://asthenia0412.github.io/post1) - Brief description (Date)
-- [Post Title 2](https://asthenia0412.github.io/post2) - Brief description (Date)
-- [Post Title 3](https://asthenia0412.github.io/post3) - Brief description (Date)
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
