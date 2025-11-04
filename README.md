@@ -1,28 +1,29 @@
 <h1 align="center">Hi there 👋, I'm Asthenia</h1>
 <h3 align="center">A Passionate Backend & DevOps Developer from China</h3>
 
-- 🏫 I’m currently studying at **Hunan University of Science and Technology (HNUST)**
+- 🏫 I'm currently studying at **Hunan University of Science and Technology (HNUST)**
 - 🎯 Expected to graduate in **2027**
 - 💻 My primary language is **Java**, with proficiency in the **Spring Ecosystem**
 - 🌐 I also have knowledge of **JavaScript** and have experimented with **Vue.js** and **React**
+- ✍️ I write technical articles on my personal blog: [asthenia0412.github.io](https://asthenia0412.github.io/)
 - 🔧 Interested in **Backend Development** and **DevOps** practices
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Backend & DevOps**
+**Backend & DevOps**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Frontend**
+**Frontend**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-**Tools**
+**Tools**  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
@@ -41,14 +42,26 @@
 
 ---
 
+### 📝 Latest Blog Posts
+<!-- If you have a blog RSS feed, you can use tools like blogpost-workflow to auto-update this section -->
+- [Post Title 1](https://asthenia0412.github.io/post1) - Brief description (Date)
+- [Post Title 2](https://asthenia0412.github.io/post2) - Brief description (Date)
+- [Post Title 3](https://asthenia0412.github.io/post3) - Brief description (Date)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asthenia0412&show_icons=true&theme=radical" alt="Your GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Asthenia0412&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asthenia0412&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
+
+### 📫 How to Reach Me
+
+[![Personal Blog](https://img.shields.io/badge/Personal_Blog-FF9800?style=for-the-badge&logo=blogger&logoColor=white)](https://asthenia0412.github.io/)
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Asthenia0412&label=Profile%20views&color=0e75b6&style=flat" alt="Asthenia0412" /> 
