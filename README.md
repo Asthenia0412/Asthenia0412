@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Asthenia</h1>
+<h1 align="center">Hi there 👋, I'm Yancy</h1>
 <h3 align="center">A Passionate Backend Developer from China</h3>
 
 - 🏫 I'm currently studying at **Hunan University of Science and Technology (HNUST)**
