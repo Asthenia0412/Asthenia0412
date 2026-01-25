@@ -1,16 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Yancy</h1>
 <h3 align="center">A Passionate Backend Developer from China</h3>
 
-- 🏫 I'm currently studying at **Hunan University of Science and Technology (HNUST)**
-- 🎯 Expected to graduate in **2027**
-- 💻 My primary language is **Java**, with proficiency in the **Spring Ecosystem**
-- 🌐 I also have knowledge of **JavaScript** and have experimented with **Vue.js** and **React**
-- ✍️ I write technical articles on my personal blog: [asthenia0412.github.io](https://asthenia0412.github.io/)
-- 🔧 Interested in **Backend Development** and **DevOps** practices
+-  I'm currently studying at **Hunan University of Science and Technology (HNUST)**
+-  Expected to graduate in **2027**
+-  My primary language is **Java**, with proficiency in the **Spring Ecosystem**
+-  I also have knowledge of **JavaScript** and have experimented with **Vue.js** and **React**
+-  I write technical articles on my personal blog: [asthenia0412.github.io](https://asthenia0412.github.io/)
+-  Interested in **Backend Development** and **DevOps** practices
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Backend & DevOps**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,21 +29,27 @@
 
 ---
 
-### 💼 Professional Experience
+###  Professional Experience
+
+#### **Java Backend Development Intern** | [ByteDance](https://www.bytedance.com/)
+*Jan 2026 - Present*
+- Engaged in backend development for the International Commercialization Product & Technology department.
+- Participated in the development of a high-concurrency, global communication platform.
+- Contributed to system optimization and data compliance-related projects.
+
+#### **Java Backend Development Intern** | [Anker Innovations](https://www.anker.com/)
+*Sep 2025 - Dec 2025*
+- Developed and maintained features for a consolidated advertising platform that manages both on-site and off-site campaigns.
+- Participated in AI-related DevOps development tasks to enhance platform efficiency and automation.
+- Contributed to the development of AI Agents aimed at improving R&D and operational efficiency.
 
 #### **Java Backend Development Intern** | [Valiantsec](https://www.valiantsec.com/)
 *Jun 2025 - Aug 2025*
-- Contributed to the **IUnit project**, focusing on core Java backend development tasks.
-
-#### **Java Backend Development Intern** | [Anker Innovations](https://www.anker.com/)
-*Sep 2025 - Present*
-- Developing and maintaining features for a consolidated **advertising platform** that manages both on-site and off-site campaigns.
-- Participating in **AI-related DevOps** development tasks to enhance platform efficiency and automation.
-- Contributed to the development of AI Agents aimed at improving R&D and operational efficiency.
+- Contributed to the IUnit project, focusing on core Java backend development tasks.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Asthenia0412&show_icons=true&theme=radical" alt="GitHub stats" />
@@ -52,7 +58,7 @@
 
 ---
 
-### 📫 How to Reach Me
+###  How to Reach Me
 
 [![Personal Blog](https://img.shields.io/badge/Personal_Blog-FF9800?style=for-the-badge&logo=blogger&logoColor=white)](https://asthenia0412.github.io/)
 
