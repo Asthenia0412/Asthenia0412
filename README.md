@@ -12,73 +12,73 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="46%" valign="top">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-      <h3>🛠 Tech Stack</h3>
+### Tech Stack
 
-      <b>Primary · Backend</b><br/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-      <br/><br/>
+**Primary · Backend**
 
-      <b>Infrastructure & DevOps</b><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-      <br/><br/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" />
 
-      <details>
-        <summary><b>+ Frontend (supplementary)</b></summary>
-        <br/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-      </details>
-      <br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
 
-      <h3>📬 Contact</h3>
+**Infrastructure & DevOps**
 
-      - 📧 [Email](mailto:your-email@example.com)
-      - 🌐 [Blog](https://asthenia0412.github.io/)
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
 
-    </td>
-    <td width="54%" valign="top">
+<details>
+<summary>Frontend (supplementary)</summary>
 
-      <h3>💼 Experience</h3>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+</details>
 
-      <b>ByteDance</b> | <i>Backend Intern</i><br/>
-      <small>Jan 2026 – Present · International Commercialization</small>
-      <ul>
-        <li>Global-facing communication platform development</li>
-        <li>High-throughput service optimization (Go)</li>
-      </ul>
+</td>
+<td width="50%" valign="top">
 
-      <b>Anker Innovations</b> | <i>Backend Intern</i><br/>
-      <small>Sep – Dec 2025</small>
-      <ul>
-        <li>Ad platform maintenance & stability</li>
-        <li>AI Agent DevOps pipeline integration</li>
-      </ul>
+### Experience
 
-      <b>Valiantsec</b> | <i>Java Intern</i><br/>
-      <small>Jun – Aug 2025</small>
-      <ul>
-        <li>Core backend development for IUnit project</li>
-      </ul>
+**ByteDance** | Backend Intern  
+*Jan 2026 – Present ·Global Monetization Product & Technology
 
-    </td>
-  </tr>
+- Global-facing communication platform development
+- High-throughput service optimization 
+- Microservices architecture design
+
+**Anker Innovations** | Backend Intern  
+*Sep – Dec 2025*
+
+- Ad platform maintenance & stability
+- AI Agent DevOps pipeline integration
+- Performance optimization & monitoring
+
+**Valiantsec** | Java Intern  
+*Jun – Aug 2025*
+
+- Core backend development for IUnit project
+- Database design & optimization
+- API development & testing
+
+### Streak Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asthenia0412&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF6B6B&currLabel=58A6FF" alt="GitHub Streak" />
+
+### Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asthenia0412&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Asthenia0412&theme=github-compact&custom_title=My%20Contribution%20Graph" />
-</p>
