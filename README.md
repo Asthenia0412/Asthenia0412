@@ -1,160 +1,134 @@
 <h1 align="center">Yancy</h1>
 
 <p align="center">
-Backend Engineer · Go / Java · Distributed Systems · Cloud Native
+  Backend Engineer · Distributed Systems · AI Infrastructure
 </p>
 
 <p align="center">
   <a href="https://asthenia0412.github.io/">
     <img src="https://img.shields.io/badge/Blog-Visit-orange?style=flat-square&logo=ghost" />
   </a>
-  <img src="https://img.shields.io/badge/ByteDance-Backend%20Intern-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-High%20Concurrency-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend%20Engineer-Go%20%7C%20Java-blue?style=flat-square" />
 </p>
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ## 👨‍💻 About Me
 
 Backend engineer focusing on:
 
-- High concurrency systems
-- Distributed infrastructure
-- Cloud-native architecture
-- AI Engineering & LLM applications
+* Distributed Systems
+* High-Concurrency Architecture
+* Cloud-Native Infrastructure
+* AI Engineering
 
+I enjoy building reliable backend systems and exploring the intersection between large-scale infrastructure and AI applications.
 
-Currently:
+</td>
 
-**Backend Intern @ ByteDance**
+<td width="50%" valign="top">
 
-Working on global communication infrastructure and large-scale backend systems.
+## 🧭 Technical Focus
 
+**Backend Engineering**
 
----
+* Service Architecture
+* Distributed Systems
+* Performance Optimization
 
-## 🛠 Tech Stack
+**Infrastructure**
 
+* Cloud Native Systems
+* Middleware Design
+* System Reliability
 
-### Backend
+**AI Engineering**
 
-<p>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-</p>
+* LLM Post-Training
+* Model Evaluation
+* AI Infrastructure
 
+</td>
 
-### Database & Middleware
+</tr>
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/RocketMQ-D77310?style=flat-square"/>
-</p>
+<tr>
 
-
-### Infrastructure
-
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-</p>
-
-
-### AI Engineering
-
-<p>
-<img src="https://img.shields.io/badge/LLM-Engineering-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/SFT-LoRA-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-</p>
-
-
----
+<td width="50%" valign="top">
 
 ## 💼 Experience
 
-
 ### ByteDance
-**Backend Engineer Intern**
 
+**Backend Engineer Intern**
 `Jan 2026 - Present`
 
-- Developed backend services for global monetization communication platform
-- Designed and optimized high-throughput microservices
-- Worked with RPC, messaging systems and distributed infrastructure
-
+* Worked on global communication infrastructure
+* Developed and optimized backend services for large-scale business scenarios
+* Participated in distributed system design and service optimization
 
 ### Anker Innovations
-**Backend Engineer Intern**
 
+**Backend Engineer Intern**
 `Sep 2025 - Dec 2025`
 
-- Maintained advertising platform services
-- Built AI Agent related engineering pipelines
-- Improved service stability and performance
-
+* Developed backend services for advertising platforms
+* Improved service stability and engineering efficiency
+* Explored AI Agent related engineering workflows
 
 ### Valiantsec
-**Java Engineer Intern**
 
+**Java Engineer Intern**
 `Jun 2025 - Aug 2025`
 
-- Developed backend services for enterprise systems
-- Designed database schema and API interfaces
-- Improved system reliability
+* Developed enterprise backend systems
+* Designed and optimized backend interfaces
+* Improved system reliability and maintainability
 
+</td>
+
+<td width="50%" valign="top">
+
+## 🚀 Currently Exploring
+
+### Large Language Model Engineering
+
+* Supervised Fine-Tuning (SFT)
+* LoRA / QLoRA
+* Preference Optimization
+
+### AI Infrastructure
+
+* LLM Serving Systems
+* Distributed Training
+* Open Source AI Infrastructure
+
+### Open Source
+
+Interested in contributing to:
+
+* Cloud Native Projects
+* Distributed Systems
+* AI Infrastructure
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🚀 Currently Learning
+## 📌 Featured Projects
 
-
-- Large Language Model Post Training
-  - SFT
-  - LoRA / QLoRA
-  - Preference Optimization
-
-
-- Distributed Systems
-  - RPC Framework
-  - Message Queue
-  - Storage Architecture
-
-
-- Open Source
-  - Contributing to cloud-native infrastructure projects
-
-
----
-
-## 📚 Projects & Interests
-
-
-### Backend Infrastructure
-
-Interested in:
-
-- Distributed systems design
-- High performance networking
-- Middleware architecture
-
-
-### AI Systems
-
-Exploring:
-
-- LLM training pipelines
-- Model evaluation
-- AI Agent infrastructure
-
+Coming soon...
 
 ---
 
 ## 📫 Contact
 
-
-- Blog: https://asthenia0412.github.io/
-- GitHub: https://github.com/Asthenia0412
+* Blog: https://asthenia0412.github.io/
+* GitHub: https://github.com/Asthenia0412
