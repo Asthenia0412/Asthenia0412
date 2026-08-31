@@ -34,6 +34,44 @@ I enjoy building reliable backend systems and exploring the intersection between
 
 <td width="50%" valign="top">
 
+## 🌍 Open Source
+
+Actively contributing to open-source projects in:
+
+* AI Infrastructure
+* Distributed Systems
+* LLM Systems
+* Developer Tools
+
+My current focus is contributing to and learning from large-scale open-source infrastructure projects.
+
+</td>
+
+</tr>
+</table>
+
+## 📊 Open Source Contributions
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Asthenia0412&show=prs_merged,prs_merged_percentage&hide=stars,commits,issues,contribs&theme=transparent"
+    alt="GitHub Open Source Contributions"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Asthenia0412?tab=overview">
+    View all GitHub contributions →
+  </a>
+</p>
+
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ## 🧭 Technical Focus
 
 **Backend Engineering**
@@ -56,11 +94,28 @@ I enjoy building reliable backend systems and exploring the intersection between
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
+
+## 🚀 Currently Exploring
+
+### Large Language Model Engineering
+
+* Supervised Fine-Tuning (SFT)
+* LoRA / QLoRA
+* Preference Optimization
+
+### AI Infrastructure
+
+* LLM Serving Systems
+* Distributed Training
+* Open Source AI Infrastructure
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 💼 Experience
 
@@ -91,58 +146,6 @@ I enjoy building reliable backend systems and exploring the intersection between
 * Designed and optimized backend interfaces
 * Improved system reliability and maintainability
 
-</td>
-
-<td width="50%" valign="top">
-
-## 🚀 Currently Exploring
-
-### Large Language Model Engineering
-
-* Supervised Fine-Tuning (SFT)
-* LoRA / QLoRA
-* Preference Optimization
-
-### AI Infrastructure
-
-* LLM Serving Systems
-* Distributed Training
-* Open Source AI Infrastructure
-
-### Open Source
-
-* AI Infrastructure
-* Distributed Systems
-* LLM Systems
-* Developer Tools
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🌍 Open Source Contributions
-
-<p>
-  <b>Building and contributing to open-source infrastructure.</b>
-</p>
-
-<p>
-  <i>
-    Automatically updated from GitHub activity.
-  </i>
-</p>
-
-<!-- PROFILE-CARDS:START -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
-  <img alt="GitHub Open Source Contributions" src="./assets/overview.light.svg" width="100%" />
-</picture>
-<!-- PROFILE-CARDS:END -->
-
 ---
 
 ## 🚀 Featured Projects
@@ -162,30 +165,6 @@ Interested in contributing to and learning from large-scale open-source infrastr
 * Distributed Systems
 * Cloud-Native Infrastructure
 * Large Language Model Engineering
-
----
-
-## 📊 Engineering Focus
-
-```text
-Backend Engineering
-        │
-        ├── Distributed Systems
-        ├── High Concurrency
-        ├── Middleware
-        └── Cloud Native
-                │
-                ▼
-        AI Infrastructure
-                │
-        ├── LLM Serving
-        ├── Model Compression
-        ├── Post-Training
-        └── AI Agents
-                │
-                ▼
-          Open Source
-```
 
 ---
 
