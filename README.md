@@ -9,7 +9,10 @@
     <img src="https://img.shields.io/badge/Blog-Visit-orange?style=flat-square&logo=ghost" />
   </a>
   <img src="https://img.shields.io/badge/Backend%20Engineer-Go%20%7C%20Java-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Infrastructure-LLM-purple?style=flat-square" />
 </p>
+
+---
 
 <table>
 <tr>
@@ -108,23 +111,81 @@ I enjoy building reliable backend systems and exploring the intersection between
 
 ### Open Source
 
-Interested in contributing to:
-
-* Cloud Native Projects
-* Distributed Systems
 * AI Infrastructure
+* Distributed Systems
+* LLM Systems
+* Developer Tools
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-## 📌 Featured Projects
+## 🌍 Open Source Contributions
 
-Coming soon...
+<p>
+  <b>Building and contributing to open-source infrastructure.</b>
+</p>
+
+<p>
+  <i>
+    Automatically updated from GitHub activity.
+  </i>
+</p>
+
+<!-- PROFILE-CARDS:START -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+  <img alt="GitHub Open Source Contributions" src="./assets/overview.light.svg" width="100%" />
+</picture>
+<!-- PROFILE-CARDS:END -->
+
+---
+
+## 🚀 Featured Projects
+
+### AI Infrastructure
+
+Interested in contributing to and learning from large-scale open-source infrastructure projects, including:
+
+* LLM Serving
+* Model Compression
+* Distributed Training
+* AI Agent Infrastructure
+
+### Engineering Interests
+
+* High-Performance Backend Systems
+* Distributed Systems
+* Cloud-Native Infrastructure
+* Large Language Model Engineering
+
+---
+
+## 📊 Engineering Focus
+
+```text
+Backend Engineering
+        │
+        ├── Distributed Systems
+        ├── High Concurrency
+        ├── Middleware
+        └── Cloud Native
+                │
+                ▼
+        AI Infrastructure
+                │
+        ├── LLM Serving
+        ├── Model Compression
+        ├── Post-Training
+        └── AI Agents
+                │
+                ▼
+          Open Source
+```
 
 ---
 
@@ -132,3 +193,9 @@ Coming soon...
 
 * Blog: https://asthenia0412.github.io/
 * GitHub: https://github.com/Asthenia0412
+
+---
+
+<p align="center">
+  <i>Building systems, contributing to open source, and exploring AI infrastructure.</i>
+</p>
