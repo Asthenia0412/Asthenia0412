@@ -8,173 +8,115 @@
   <a href="https://asthenia0412.github.io/">
     <img src="https://img.shields.io/badge/Blog-Visit-orange?style=flat-square&logo=ghost" />
   </a>
-  <img src="https://img.shields.io/badge/Backend%20Engineer-Go%20%7C%20Java-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Infrastructure-LLM-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-Go%20%7C%20Java-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-LLM%20Systems-purple?style=flat-square" />
 </p>
 
 ---
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-## 👨‍💻 About Me
+## About
 
-Backend engineer focusing on:
+Backend engineer focused on large-scale systems and infrastructure.
 
-* Distributed Systems
-* High-Concurrency Architecture
-* Cloud-Native Infrastructure
-* AI Engineering
-
-I enjoy building reliable backend systems and exploring the intersection between large-scale infrastructure and AI applications.
+- Distributed Systems
+- High-Concurrency Systems
+- Cloud-Native Infrastructure
+- AI Infrastructure
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🌍 Open Source
+## Open Source
 
-Actively contributing to open-source projects in:
+Interested in open-source infrastructure and systems engineering.
 
-* AI Infrastructure
-* Distributed Systems
-* LLM Systems
-* Developer Tools
-
-My current focus is contributing to and learning from large-scale open-source infrastructure projects.
+- Distributed Systems
+- Databases & Middleware
+- LLM Infrastructure
+- Developer Tools
 
 </td>
-
 </tr>
 </table>
 
-## 📊 Open Source Contributions
+## Experience
+
+<table>
+<tr>
+<td width="25%"><b>TikTok LIVE</b><br><sub>Sep 2026 — Present</sub></td>
+<td>
+<b>Backend Engineer Intern</b><br>
+Live platform backend · high-concurrency systems · large-scale infrastructure
+</td>
+</tr>
+
+<tr>
+<td><b>TikTok Monetization</b><br><sub>Jan 2026 — Sep 2026</sub></td>
+<td>
+<b>Backend Engineer Intern</b><br>
+Global communication infrastructure · messaging systems · service reliability
+</td>
+</tr>
+
+<tr>
+<td><b>Anker Innovations</b><br><sub>Sep 2025 — Dec 2025</sub></td>
+<td>
+<b>Backend Engineer Intern</b><br>
+Backend services · AI Agent engineering
+</td>
+</tr>
+
+<tr>
+<td><b>Valiantsec</b><br><sub>Jun 2025 — Aug 2025</sub></td>
+<td>
+<b>Backend Engineer Intern</b><br>
+Enterprise backend systems
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## Technical Focus
+
+**Backend Engineering**  
+Go · Java · Distributed Systems · High Concurrency
+
+**Infrastructure**  
+Databases · Middleware · Messaging · Cloud Native
+
+</td>
+<td width="50%" valign="top">
+
+## AI Engineering
+
+**LLM Systems**  
+Post-Training · Evaluation · Serving
+
+**Infrastructure**  
+Distributed Training · AI Infrastructure · Agent Systems
+
+</td>
+</tr>
+</table>
+
+## Open Source Contributions
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Asthenia0412&show=prs_merged,prs_merged_percentage&hide=stars,commits,issues,contribs&theme=transparent"
-    alt="GitHub Open Source Contributions"
+    height="140"
   />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Asthenia0412?tab=overview">
-    View all GitHub contributions →
-  </a>
-</p>
-
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🧭 Technical Focus
-
-**Backend Engineering**
-
-* Service Architecture
-* Distributed Systems
-* Performance Optimization
-
-**Infrastructure**
-
-* Cloud Native Systems
-* Middleware Design
-* System Reliability
-
-**AI Engineering**
-
-* LLM Post-Training
-* Model Evaluation
-* AI Infrastructure
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🚀 Currently Exploring
-
-### Large Language Model Engineering
-
-* Supervised Fine-Tuning (SFT)
-* LoRA / QLoRA
-* Preference Optimization
-
-### AI Infrastructure
-
-* LLM Serving Systems
-* Distributed Training
-* Open Source AI Infrastructure
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 💼 Experience
-
-### ByteDance
-
-**Backend Engineer Intern**
-`Jan 2026 - Present`
-
-* Worked on global communication infrastructure
-* Developed and optimized backend services for large-scale business scenarios
-* Participated in distributed system design and service optimization
-
-### Anker Innovations
-
-**Backend Engineer Intern**
-`Sep 2025 - Dec 2025`
-
-* Developed backend services for advertising platforms
-* Improved service stability and engineering efficiency
-* Explored AI Agent related engineering workflows
-
-### Valiantsec
-
-**Java Engineer Intern**
-`Jun 2025 - Aug 2025`
-
-* Developed enterprise backend systems
-* Designed and optimized backend interfaces
-* Improved system reliability and maintainability
-
----
-
-## 🚀 Featured Projects
-
-### AI Infrastructure
-
-Interested in contributing to and learning from large-scale open-source infrastructure projects, including:
-
-* LLM Serving
-* Model Compression
-* Distributed Training
-* AI Agent Infrastructure
-
-### Engineering Interests
-
-* High-Performance Backend Systems
-* Distributed Systems
-* Cloud-Native Infrastructure
-* Large Language Model Engineering
-
----
-
-## 📫 Contact
-
-* Blog: https://asthenia0412.github.io/
-* GitHub: https://github.com/Asthenia0412
-
----
-
-<p align="center">
-  <i>Building systems, contributing to open source, and exploring AI infrastructure.</i>
+  <a href="https://github.com/Asthenia0412?tab=overview">GitHub</a>
+  ·
+  <a href="https://asthenia0412.github.io/">Blog</a>
 </p>
