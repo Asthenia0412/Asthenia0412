@@ -1,4 +1,4 @@
-<h1 align="center">Yancy</h1>
+<h1 align="center">Stochastic</h1>
 
 <p align="center">
   Backend Engineer · Distributed Systems · AI Infrastructure
